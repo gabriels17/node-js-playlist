@@ -21,7 +21,11 @@ body{
 }
 
 input[type="text"]{
+<<<<<<< HEAD
     width: 66%;
+=======
+    width: 70%;
+>>>>>>> 7e12737fa227c6525c39d3af258916f5575811f2
     padding: 20px;
     background:#181c22;
     border: 0;
