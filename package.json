@@ -1,0 +1,20 @@
+{
+  "name": "to-do",
+  "version": "1.0.0",
+  "description": "todo app",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-js-playlist"
+  },
+  "author": "gabriels17",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
